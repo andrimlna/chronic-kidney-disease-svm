@@ -55,6 +55,6 @@ chronic-kidney-disease-svm/
 
 ## Author
 
-[Your Name]
+[Andri Maulana Hisbullah]
 
 Bachelor of Informatics Engineering
